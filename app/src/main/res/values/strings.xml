@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bp3_Modul3_UI</string>
+    <string name="welcome_to_my_apps">Welcome to My Apps</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="logo">Logo</string>
+    <string name="ini_adalah_halaman_utama">Ini adalah Halaman Utama</string>
+</resources>
